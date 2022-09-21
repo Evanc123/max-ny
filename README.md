@@ -1,4 +1,4 @@
-# max-ny
+# max-ny (WIP!)
 
 In order to produce the plots, setup your env with `requirements.txt`, then run `python3 crawl.py`, followed by `python3 vis.py` 
 
