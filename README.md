@@ -1,6 +1,6 @@
 # max-ny
 
-In order to produce the plots, run `crawl.py`, followed by `vis.py` 
+In order to produce the plots, setup your env with `requirements.txt`, then run `python3 crawl.py`, followed by `python3 vis.py` 
 
 
 The last 25 council members and their votes: 
